@@ -1,0 +1,35 @@
+h1 {
+  font-family: serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f9b9d2;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: #ec5fc7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.me{
+  padding:80px;
+}
+
+body {
+  background-color: #ffe5f7; /* Named color */
+}
+
+iframe {
+  display: block;
+  margin: 20px auto;
+}
