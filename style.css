@@ -33,3 +33,8 @@ iframe {
   display: block;
   margin: 20px auto;
 }
+
+.center {
+  display: flex;
+  justify-content: center;
+}
